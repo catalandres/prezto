@@ -22,6 +22,7 @@ alias brewl='brew list'
 alias brewo='brew outdated'
 alias brews='brew search'
 alias brewu='brew update && brew upgrade'
+alias brewup='brew update && brew upgrade && brew cleanup --force'
 alias brewx='brew remove'
 
 # Homebrew Cask

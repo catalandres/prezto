@@ -31,3 +31,8 @@
 [submodule "external/salesforce-cli-zsh-completion"]
 	path = external/salesforce-cli-zsh-completion
 	url = https://github.com/wadewegner/salesforce-cli-zsh-completion
+	shallow = true
+[submodule "modules/prompt/external/powerlevel10k"]
+	path = modules/prompt/external/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+	shallow = true
